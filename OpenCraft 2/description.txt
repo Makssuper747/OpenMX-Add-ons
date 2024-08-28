@@ -1,0 +1,11 @@
+OpenCraft 2 for OpenMX
+by -Microboy-
+
+OpenCraft 2 is a remake of OpenCraft for OpenMX that has music as well as the blocks of 1.21 
+(some have been removed for convenience and consistency). It was made in TurboWarp as it can handle uploading 
+the 1000-something PNGs that the "/assets/textures/block/" folder in the Minecraft 1.20.6 JAR has without even crashing.
+
+Credit to @bambus80 for the fullscreen app framework and Mojang Studios for the music and block textures.
+Left = previous block
+Right = next block
+Space = erase all blocks
