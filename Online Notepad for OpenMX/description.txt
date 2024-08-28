@@ -1,0 +1,5 @@
+Online Notepad
+by: https://onlinenotepad.org/notepad
+ported by: Makssuper747
+
+Simple online notepad!
