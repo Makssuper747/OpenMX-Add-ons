@@ -1,0 +1,8 @@
+Messages - an OpenMX add-on
+by Player222_New
+
+A typical messaging client for OpenMX.
+Feel free to use this in your OpenMX Distribution!
+
+
+You don't have to use the default groups. You can instead replace them with your own groups of your choice.
