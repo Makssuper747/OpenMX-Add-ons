@@ -1,1 +1,4 @@
+Delta Karaoke Player for OpenMX
+by 31parkjulian
 
+Simple music player.
