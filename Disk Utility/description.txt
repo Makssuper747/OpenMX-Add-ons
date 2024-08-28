@@ -1,1 +1,11 @@
+Disk Utility
+by NorskTV
 
+(Updated version, works for OpenMX 8)
+Some people requested this, so there it is!
+Modify as you like.
+Follow instructions inside the project.
+
+Make sure to remove when green flag clicked if you put it on the OS.
+
+As Nova said, you can change the OS name while using it in your OpenMX distrobutions.
