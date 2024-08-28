@@ -1,0 +1,6 @@
+Mail - An OpenMX Application
+by Player222_New
+
+You can freely use this app in your OpenMX Distro!
+
+Just make sure to replace the placeholder mail's contents with your own.
