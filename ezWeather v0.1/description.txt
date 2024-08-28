@@ -1,1 +1,7 @@
+ezWeather v0.1
+by superneonbros
+
+A Weather Tracking app for your Distro.
+(UNFINISHED)
+100th project in SCA Studio!
 
