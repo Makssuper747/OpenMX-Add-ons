@@ -1,0 +1,4 @@
+Currency Converter
+by Makssuper747
+
+Simple Currency Converter Program for OpenMX!
