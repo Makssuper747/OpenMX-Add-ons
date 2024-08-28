@@ -2,3 +2,5 @@ Delta Karaoke Player for OpenMX
 by 31parkjulian
 
 Simple music player.
+
+NOTE: Albums__Default Extravaganza.kar.sprite3 sprite couldn't be included because the file is too big, scratch page available here: https://scratch.mit.edu/projects/1037315438/
