@@ -1,3 +1,6 @@
+Notepad
+by Makssuper747
+
 Simple notepad app for OpenMX.
 It can save files, and open them.
 Up arrow to remove text.
