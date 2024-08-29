@@ -1,3 +1,6 @@
+PortaNotes
+by BambusOS
+
 ⚠️This app requires the InterApp Driver 1.0
 Get it here: https://scratch.mit.edu/projects/1029908922/
 ⚠️The preview in here does NOT work as the app requires the aforementioned driver to work correctly.
