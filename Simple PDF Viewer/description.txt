@@ -1,0 +1,5 @@
+Simple PDF Viewer
+by Makssuper747
+
+Simple PDF Viewer is compatible with OpenMX 3 and up.
+Everything is simple.
