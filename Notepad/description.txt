@@ -1,0 +1,4 @@
+Simple notepad app for OpenMX.
+It can save files, and open them.
+Up arrow to remove text.
+Down arrow to add text.
