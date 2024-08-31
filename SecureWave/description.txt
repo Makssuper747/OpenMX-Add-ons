@@ -1,0 +1,6 @@
+SecureWave
+by cat_Eatacat
+
+A cross platform Antivirus
+
+NOTE: This package contains OpenMX version only!
