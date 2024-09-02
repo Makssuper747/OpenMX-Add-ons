@@ -1,0 +1,2 @@
+Add-on template for OpenMX 10.0
+Made by Makssuper747
