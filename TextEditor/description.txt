@@ -1,0 +1,4 @@
+Text Editor
+by Makssuper747
+
+Text editor for OpenMX 10.0
