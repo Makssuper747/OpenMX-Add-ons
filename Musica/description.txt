@@ -1,0 +1,4 @@
+Musica
+Made by Makssuper747
+
+Musica is a simple and elegant Music Player for OpenMX
