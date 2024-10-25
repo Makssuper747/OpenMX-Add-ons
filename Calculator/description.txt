@@ -1,4 +1,1 @@
-Calculator
-by Makssuper747
-  
-Calculator App for OpenMX 10.0
+Simple calculator, nothing else. Category: Utilities
