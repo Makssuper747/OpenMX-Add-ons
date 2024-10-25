@@ -1,1 +1,1 @@
-      Musica is a simple and elegant Music Player for OpenMX. Category: Music&Video
+  -Simple and elegant Music Player for OpenMX. Category: Music&Video
