@@ -1,4 +1,1 @@
-HTML Viewer
-by Makssuper747
-
-HTML Viewer app for OpenMX 10!
+View your HTML files easily!  Category: Utilties
