@@ -1,4 +1,1 @@
-ANTIvirus NG 
-by Novaboom6956
-
-Antivirus program.
+Antivirus program.  Category: System
