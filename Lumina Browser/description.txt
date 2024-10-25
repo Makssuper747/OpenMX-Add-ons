@@ -1,4 +1,1 @@
-Lumina browser for OpenMX 9.0
-by cat_Eatacat
-
-Lumina browser
+Lumina browser ported to OpenMX.  Category: Internet
