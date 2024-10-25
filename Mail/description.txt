@@ -1,2 +1,2 @@
- A simple Mail client, now redesigned for OpenMX 10.0.
+ A simple Mail client, now redesigned for OpenMX 10.0.  Category: Productivity
 
