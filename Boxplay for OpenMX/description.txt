@@ -1,5 +1,2 @@
-Boxplay for OpenMX
-by CoolXbox3022
+Very simple and minimalistic Music Player.  Category: Music&Video
 
-This is a very simple and minimalistic Music Player.
-(Updated for OpenMX 10)
