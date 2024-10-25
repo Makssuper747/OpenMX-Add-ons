@@ -1,8 +1,2 @@
-Mail - An OpenMX Application
-by Player222_New
+ A simple Mail client, now redesigned for OpenMX 10.0.
 
-Mail for OpenMX 10.0 - A simple Mail client, now redesigned for OpenMX 10.0.
-
-(Preview won't show because of how OpenMX works)
-Much like the original version of the mail app, you can replace the sample mail included with your own if you wanted to use this in your OpenMX Distro.
-Works for OpenMX 10!
