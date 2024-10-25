@@ -1,16 +1,1 @@
-InterMusic
-by BambusOS
-
-⚠️This app requires the InterApp Driver 1.0
-Get it here: https://scratch.mit.edu/projects/1029908922/
-⚠️The preview in here does NOT work as the app requires the aforementioned driver to work correctly.
-
-InterMusic is a powerful cross-platform InterApp music app. It features a plethora of built-in songs and minimization!
-
-Tested on:
--✅OpenMX 8.0 (Driver 1.0)
--✅TriOS Cosmos Build 2010 (Driver 1.0)
--✅PawerOS Ultimate 1.6.1 (Driver 1.0, Tested by @PaweR_Develop)
--✅Blackberry 1.2.1 (Driver 1.0, Tested by @PaweR_Develop)
-
-NOTE: This package contains OpenMX version only!
+InterApp-based Music player.  Category: Music&Video
