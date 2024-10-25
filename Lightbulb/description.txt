@@ -1,4 +1,1 @@
-Lightbulb for OpenMX (now supports Openmx 10.0)
-by cat_Eatacat
-
-Things you can say now: Shutdown, Show my files, Browse the internet, Next wallpaper. Best used in OpenMX.
+Lightbulb assistant port for OpenMX.  Category: Utilities
