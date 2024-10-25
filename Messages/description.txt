@@ -1,2 +1,2 @@
- A typical messaging client for OpenMX.
+ A typical messaging client for OpenMX.  Category: Internet
 
