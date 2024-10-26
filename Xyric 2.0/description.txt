@@ -1,3 +1,1 @@
-Xyric 2.0 | For OpenMX
-by DevSpring
-  
+Movie streaming service.  Category: Internet
