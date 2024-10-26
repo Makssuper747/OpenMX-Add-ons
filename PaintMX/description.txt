@@ -1,5 +1,2 @@
-PaintMX
-by Scracth_Fakemon
+Paint program.  Category: Graphics&Photography
 
-Try it out here: https://turbowarp.org/?project_url=raw.githubusercontent.com/ScratchFakemon/FakemonMXAddons/main/PaintMX.sb3
-Paint program.
