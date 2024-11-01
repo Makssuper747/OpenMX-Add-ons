@@ -1,1 +1,1 @@
-An open source simulation game based upon the popular Microprose game "Transport Tycoon Deluxe"  Category: Games  by: The OpenTTD team
+An open source simulation game based upon the popular Microprose game "Transport Tycoon Deluxe"  Category: Games  By: The OpenTTD team
