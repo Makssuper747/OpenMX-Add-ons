@@ -1,4 +1,1 @@
-Text Editor
-by Makssuper747
-
-Text editor for OpenMX 10.0
+A text editor that utilizes graphical fonts.  Category: Productivity  By: Makssuper747
