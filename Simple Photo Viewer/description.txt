@@ -1,4 +1,1 @@
-Simple Photo Viewer
-by Makssuper747
-
-Photo Viewer for OpenMX
+View your photos. Category: Graphics&Photography  By: Makssuper747
