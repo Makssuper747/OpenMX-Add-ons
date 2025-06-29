@@ -1,5 +1,4 @@
-Online Notepad
-by: https://onlinenotepad.org/notepad
-ported by: Makssuper747
+Simple online notepad! Category: Productivity  By: onlinenotepad.org
 
-Simple online notepad!
+
+
