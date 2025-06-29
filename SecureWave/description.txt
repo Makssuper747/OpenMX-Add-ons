@@ -1,6 +1,1 @@
-SecureWave
-by cat_Eatacat
-
-A cross platform Antivirus
-
-NOTE: This package contains OpenMX version only!
+A cross platform Antivirus. Category: System  By: cat_Eatacat
