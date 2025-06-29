@@ -1,4 +1,1 @@
-Pulse Task Manager
-by Makssuper747
-
-Pulse Task Manager - Simple task manager program for OpenMX!
+Task manager program. Category: System  By: Makssuper747
