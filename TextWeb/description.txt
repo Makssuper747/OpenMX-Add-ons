@@ -1,4 +1,1 @@
-TextWeb 1.0 | Text-Based Web Browser
-by Scratch_Fakemon
-
-A simple text-based web browser for OpenMX.
+A simple text-based web browser for OpenMX. Category: Internet  By: Scratch_Fakemon
