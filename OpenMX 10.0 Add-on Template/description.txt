@@ -1,2 +1,2 @@
-Add-on template for OpenMX 10.0
-Made by Makssuper747
+Add-on template for OpenMX 10.0 Category: Developer Tools  By: Makssuper747
+
