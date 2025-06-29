@@ -1,4 +1,1 @@
-Sweep
-by Makssuper747
-
-Simple system cleaner app.
+Simple system cleaner app. Category: System  By: Makssuper747
