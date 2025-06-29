@@ -1,4 +1,2 @@
-Superphoto
-by cat_Eatacat
+InterApp's photo program. Category: Graphics&Photography  By: cat_Eatacat
 
-InterApp has a music app, it has a notepad app, now there is a photo app.
